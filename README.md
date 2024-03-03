@@ -17,7 +17,8 @@ In my spare time I like to:
 ![A photo of me](https://cdn.openart.ai/uploads/image_O9t8RPAv_1691540924350_512.webp)
 
 ### My linkedin
-If you're looking for someone perfect to employ and work with, here's my linkedin.
+If you're looking for someone perfect to employ and work with, here's my linkedin. I am always willing to be hired.
+
 [My linkedin](www.linkedin.com/in/jaime-bahan-67794b177)
 
 

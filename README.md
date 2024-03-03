@@ -16,7 +16,7 @@ In my spare time I like to:
 ### Here's what I look like on a good day. 
 ![A photo of me](https://cdn.openart.ai/uploads/image_O9t8RPAv_1691540924350_512.webp)
 
-### My linkedin
+## My linkedin
 If you're looking for someone *perfect* to employ and work with, here's my [linkedin](www.linkedin.com/in/jaime-bahan-67794b177). I am always willing to be hired, please and thank you.
 
 

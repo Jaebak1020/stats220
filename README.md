@@ -12,7 +12,7 @@ In my spare time I like to:
 - Read
 - Watch netflix
 
-Here's what I look like on a good day. 
+### Here's what I look like on a good day. 
 ![A photo of me](https://cdn.openart.ai/uploads/image_O9t8RPAv_1691540924350_512.webp)
 
 ### My linkedin

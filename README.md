@@ -4,7 +4,7 @@ Hi there! I'm **Jaime Bahan** and welcome to my repo. This repo will contain eve
 
 ## About me
 Don't skip this part! I swear I'm interesting.
-Currently I am a second year at the [University of Auckland](https://www.auckland.ac.nz/en.html), studying *Computer Science* and *Statistics*.
+Currently I am a second year at the [University of Auckland](https://www.auckland.ac.nz/en.html), studying **Computer Science** and **Statistics**.
 In my spare time I like to: 
 1. Exercise
    * Play badminton
@@ -17,7 +17,7 @@ In my spare time I like to:
 ![A photo of me](https://cdn.openart.ai/uploads/image_O9t8RPAv_1691540924350_512.webp)
 
 ### My linkedin
-If you're looking for someone perfect to employ and work with, here's my [linkedin](www.linkedin.com/in/jaime-bahan-67794b177). I am always willing to be hired, please and thank you.
+If you're looking for someone *perfect* to employ and work with, here's my [linkedin](www.linkedin.com/in/jaime-bahan-67794b177). I am always willing to be hired, please and thank you.
 
 
 
